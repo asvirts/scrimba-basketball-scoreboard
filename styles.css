@@ -16,9 +16,13 @@ body {
     text-align: center;
 }
 
+.container-2 {
+    padding-top: 25px;
+}
+
 h3 {
-    font-size: 35px;
-    margin-bottom: 25px;
+    font-size: 50px;
+    margin-bottom: 50px;
 }
 
 h2 {
