@@ -1,0 +1,53 @@
+body {
+    background-color: #828A8F;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background-color: #9E1B32;
+    border: 3px solid #fff;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+h2 {
+    background-color: #000;
+    color: #fff;
+    font-family: 'cursed-timer';
+    font-size: 100px;
+    padding: 30px 50px;
+}
+
+button {
+    font-family: 'cursed-timer';
+    font-size: 25px;
+    margin: 0 auto 50px;
+}
+
+#tide-logo {
+    margin: 5px auto;
+    width: 50%;
+}
+
+#tide-logo-img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Fonts */
+
+@font-face {
+    font-family: "cursed-timer";
+    src: url("cursed-timer.ttf");
+}
