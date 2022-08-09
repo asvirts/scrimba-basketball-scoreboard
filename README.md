@@ -1,5 +1,5 @@
-# scrimba-basketball-scoreboard
+basketball-scoreboard
 
-JavaScript lesson from Scrimba
+JavaScript solo project based on lessons from Scrimba
 
 https://asvirts.github.io/scrimba-basketball-scoreboard
